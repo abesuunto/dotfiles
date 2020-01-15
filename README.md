@@ -32,6 +32,6 @@ Installation:
 
 Installation:
 
-`curl -Lks https://raw.githubusercontent.com/abeintopalo/dotfiles/master/.bin/install.sh | /bin/bash`
+`curl -Lks https://raw.githubusercontent.com/abesuunto/dotfiles/master/.bin/install.sh | /bin/bash`
 
 
